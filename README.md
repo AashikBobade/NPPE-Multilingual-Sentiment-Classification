@@ -1,4 +1,4 @@
-# NPPE-1 Multilingual Sentiment Classification
+# NPPE-1 Multilingual Sentiment Analysis
 
 This repository contains my Kaggle notebook solution for the **NPPE-1 Multilingual Sentiment Classification** challenge.
 The objective is to fine-tune **`google/gemma-3-1b-it`** for robust classification of text across multiple low-resource Indian languages.
